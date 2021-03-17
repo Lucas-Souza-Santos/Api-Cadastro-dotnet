@@ -1,0 +1,16 @@
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\bin\Debug\net5.0\meu-projeto.exe
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\bin\Debug\net5.0\meu-projeto.deps.json
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\bin\Debug\net5.0\meu-projeto.runtimeconfig.json
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\bin\Debug\net5.0\meu-projeto.runtimeconfig.dev.json
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\bin\Debug\net5.0\meu-projeto.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\bin\Debug\net5.0\ref\meu-projeto.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\bin\Debug\net5.0\meu-projeto.pdb
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\obj\Debug\net5.0\meu-projeto.csprojAssemblyReference.cache
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\obj\Debug\net5.0\meu-projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\obj\Debug\net5.0\meu-projeto.AssemblyInfoInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\obj\Debug\net5.0\meu-projeto.AssemblyInfo.cs
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\obj\Debug\net5.0\meu-projeto.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\obj\Debug\net5.0\meu-projeto.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\obj\Debug\net5.0\ref\meu-projeto.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\obj\Debug\net5.0\meu-projeto.pdb
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-projeto\obj\Debug\net5.0\meu-projeto.genruntimeconfig.cache
