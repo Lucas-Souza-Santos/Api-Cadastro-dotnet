@@ -7,7 +7,12 @@ namespace meu_projeto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Alo Mundo");
+            Console.Clear();
+            Conta minhaConta = new Conta();
+            minhaConta.Nome = "Lucas";
+
+            Console.WriteLine(minhaConta.Nome);
+            
         }
     }
 }
