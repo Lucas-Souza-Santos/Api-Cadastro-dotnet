@@ -1,0 +1,16 @@
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\bin\Debug\net5.0\meu-cadastro-series.exe
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\bin\Debug\net5.0\meu-cadastro-series.deps.json
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\bin\Debug\net5.0\meu-cadastro-series.runtimeconfig.json
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\bin\Debug\net5.0\meu-cadastro-series.runtimeconfig.dev.json
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\bin\Debug\net5.0\meu-cadastro-series.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\bin\Debug\net5.0\ref\meu-cadastro-series.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\bin\Debug\net5.0\meu-cadastro-series.pdb
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\obj\Debug\net5.0\meu-cadastro-series.csprojAssemblyReference.cache
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\obj\Debug\net5.0\meu-cadastro-series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\obj\Debug\net5.0\meu-cadastro-series.AssemblyInfoInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\obj\Debug\net5.0\meu-cadastro-series.AssemblyInfo.cs
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\obj\Debug\net5.0\meu-cadastro-series.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\obj\Debug\net5.0\meu-cadastro-series.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\obj\Debug\net5.0\ref\meu-cadastro-series.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\obj\Debug\net5.0\meu-cadastro-series.pdb
+C:\Users\Notebook\OneDrive\Documentos\GitHub\DIO\Api-Cadastro-dotnet\meu-cadastro-series\obj\Debug\net5.0\meu-cadastro-series.genruntimeconfig.cache
