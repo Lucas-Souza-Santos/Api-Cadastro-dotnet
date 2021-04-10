@@ -8,34 +8,34 @@ namespace meu_cadastro_series
     {
         private List<Series> listaSerie = new List<Series>();
         
-        public void Atualiza(int id, Series entidade)
+        public void Atualiza(int id, Series objeto)
         {
-            throw new NotImplementedException();
+            listaSerie[id] = objeto;
         }
 
         public void Exclui(int id)
         {
-            throw new NotImplementedException();
+            listaSerie[id].Excluir();
         }
 
-        public void Insere(Series entidade)
+        public void Insere(Series objeto)
         {
-            throw new NotImplementedException();
+            listaSerie.Add(objeto);
         }
 
         public List<Series> Lista()
         {
-            throw new NotImplementedException();
+            return listaSerie;
         }
 
         public int ProximoId()
         {
-            throw new NotImplementedException();
+            return listaSerie.Count;
         }
 
         public Series RetornaPorId(int id)
         {
-            throw new NotImplementedException();
+            return listaSerie[id];
         }
     }
 }
