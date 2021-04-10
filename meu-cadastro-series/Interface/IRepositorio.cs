@@ -11,6 +11,8 @@ namespace meu_cadastro_series.Interface
         void Exclui(int id);
         void Atualiza(int id, T entidade);
         int ProximoId();
+        
+        
          
     }
 }
